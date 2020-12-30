@@ -31,7 +31,7 @@
     "mkdirp": "0.3.3",
     "cookie": "0.0.5",
     "crc": "0.2.0",
-    "fresh": "0.1.0",
+    "fresh": "0.5.2",
     "methods": "0.0.1",
     "send": "0.1.0",
     "cookie-signature": "0.0.1",
